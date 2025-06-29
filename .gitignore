@@ -1,0 +1,4 @@
+# Ignore only CSVs in this directory
+*.csv
+*.pt
+__pycache__
